@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+pyproject.toml
+main.py
+playground/train.csv
+playground/test.csv
+playground/sample_submission.csv
+.vscode/settings.json
+uv.lock
+profile.html

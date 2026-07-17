@@ -2,3 +2,6 @@ pandas
 numpy
 matplotlib
 ydata_profiling
+scikit-learn
+xgboost
+lightgbm
