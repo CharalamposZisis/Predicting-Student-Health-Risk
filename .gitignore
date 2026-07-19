@@ -224,3 +224,5 @@ playground/sample_submission.csv
 .vscode/settings.json
 uv.lock
 profile.html
+submission_nn.csv
+submission.csv
